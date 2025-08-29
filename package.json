@@ -77,5 +77,6 @@
     "gettext-parser": "4.2.0",
     "gettext-to-messageformat": "0.3.1"
   },
-  "type": "module"
+  "type": "module",
+  "main": "index.js"
 }
